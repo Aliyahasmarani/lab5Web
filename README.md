@@ -101,7 +101,23 @@
 
 ![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/dbc1d794-baa4-40e9-aef2-f286742a7b76)
 
+## PERTANYAAN DAN TUGAS
 
+### CODE 
+
+![Dom](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/f18fddc4-d2a9-4108-bfe1-cbcb3de2864b)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/fe3e8ab4-0dcd-4d77-872e-8694d7f7b688)
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/b9f2d796-68c2-41dc-8487-ef69621129da)
+
+#### Note: 
+
+> Jika salah satu isian form tidak diisi, maka akan muncul pesan peringatan dan form tidak akan dikirimkan.
+
+> Jika semua isian diisi dengan benar, form dapat dikirim dan data yang diisi akan dapat digunakan untuk tujuan yang sesuai.
 
 
 
