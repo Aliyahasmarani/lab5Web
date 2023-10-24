@@ -91,6 +91,18 @@
 
 ![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/0e6b8095-c394-4d86-852c-01538365b473)
 
+## 4. HTML DOM
+
+### Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/a9bb90ec-6947-409d-9904-9591f07a369a)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/dbc1d794-baa4-40e9-aef2-f286742a7b76)
+
+
+
 
 
 
