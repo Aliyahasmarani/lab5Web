@@ -45,6 +45,62 @@
 
 ![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/fc07f83a-3956-4c03-a332-06f4f3263a8f)
 
+## 3. DASAR PEMROGRAMAN DI JAVASCRIPT
+
+### Operasi dasar aritmatika
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/57e58300-d877-4504-bd07-fae39b3a6b4d)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/66c27384-2736-43a4-8000-4779b571ab19)
+
+### Seleksi kondisi (if..else)
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/3871488b-53c6-474f-bc9b-66051166439c)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/768a2727-6ca4-47e5-9e20-68b6df10f7df)
+
+### Penggunaan operator switch untuk seleksi kondis
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/7e9cdd79-7d91-41c1-9858-25561e3e4a3c)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/4035a83c-4308-45b0-bf87-be5ab4e77d1f)
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/b62abda8-64be-4bcf-b092-bbd759c5c731)
+
+## 3. PEMBUATAN FORM
+
+### Form Input
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/11e39d5b-cde6-42ae-a34f-6fd6ead3611b)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/648aca8e-7fb1-4fa4-ab62-78b6ec2cc240)
+
+### Form Button
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/b28ef783-3d41-4dd9-aa00-b285f28fce7a)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/lab5Web/assets/115197672/0e6b8095-c394-4d86-852c-01538365b473)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
